@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiRouteFlightApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e547c97b8a18084ce5824aef0de0611133c8ce44")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiRouteFlightApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiRouteFlightApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
